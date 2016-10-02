@@ -1,0 +1,24 @@
+
+<form id="1337483799">
+<property name="name" value="process-1-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="processvar1" type="InputText" id="898505479">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;processvar1 (processvar1)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="processvar1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="processvar2" type="InputText" id="1082224834">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;processvar2 (processvar2)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="processvar2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="initiator" value="java.lang.String" id="initiator"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="logMessage" value="java.lang.String" id="logMessage"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="processvar1" value="java.lang.String" id="processvar1"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="processvar2" value="java.lang.String" id="processvar2"/>
+</form>

@@ -1,0 +1,15 @@
+
+<form id="562765153">
+<property name="name" value="TASK-C-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="processvar1" type="InputText" id="761140328">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_var (processvar1)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="in_var"/>
+<property name="outputBinding" value="in_var"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="in_var" name="#E9E371" type="basicType" outId="in_var" value="java.lang.String" id="processvar1"/>
+</form>

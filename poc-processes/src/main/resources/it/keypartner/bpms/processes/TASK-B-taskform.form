@@ -1,0 +1,24 @@
+
+<form id="1412501996">
+<property name="name" value="TASK-B-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="processvar1" type="InputText" id="1469243440">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_var1 (processvar1)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="in_var1"/>
+<property name="outputBinding" value="in_var1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="processvar2" type="InputText" id="147702045">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;in_var2 (processvar2)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="in_var2"/>
+<property name="outputBinding" value="in_var2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="in_var1" name="#E9E371" type="basicType" outId="in_var1" value="java.lang.String" id="processvar1"/>
+<dataHolder inputId="in_var2" name="#9BCAFA" type="basicType" outId="in_var2" value="java.lang.String" id="processvar2"/>
+</form>
